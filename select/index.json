@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "おまもり",
+  "base_artist": "PIGGS",
+  "createdAt": "2026-01-13T09:29:02.484080Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おまもり",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/01_おまもり_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おまもり",
+      "artist": "邓丽君",
+      "has_synced": true,
+      "path": "select/02_おまもり_邓丽君.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おまもり",
+      "artist": "テレサ・テン",
+      "has_synced": true,
+      "path": "select/03_おまもり_テレサ・テン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おまもり",
+      "artist": "PIGGS",
+      "has_synced": false,
+      "path": "select/pl_01_おまもり_PIGGS.txt"
+    }
+  ]
+}
